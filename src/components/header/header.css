@@ -134,8 +134,9 @@
             padding: 8px 15px;
           }
           .type {
+            height: 100%;
             right: 0;
-            padding: 5px 10px;
+            padding: 6px 10px;
           }
           .search-results {
             width: 280px;

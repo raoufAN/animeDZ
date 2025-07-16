@@ -4,7 +4,6 @@ import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar"; // ✅ Required for scrollbar drag to appear
-
 import { FreeMode, Scrollbar } from "swiper/modules";
 import "./slider.css";
 import { Link } from "react-router-dom";
